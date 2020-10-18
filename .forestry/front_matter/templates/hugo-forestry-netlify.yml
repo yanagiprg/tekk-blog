@@ -18,3 +18,5 @@ fields:
     schema:
       format: markdown
   label: fywyrerweyrywuywuwherwgrewgwergwegwreyreywrywywrywywywwre
+pages:
+- content/posts/sample.md
