@@ -1,6 +1,7 @@
 ---
 label: Hugo, Forestry & Netlifyでブログを作成
 hide_body: true
+display_field: tekk_blog
 fields:
 - name: tekk_blog
   type: text
