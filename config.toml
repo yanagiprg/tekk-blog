@@ -1,6 +1,6 @@
 # Site settings
 baseurl = "/"
-languageCode = "en"
+languageCode = "ja"
 title = "Tekk Blog"
 theme = "hugo-theme-cactus-plus"
 googleAnalytics = "your_google_analytics_id"
