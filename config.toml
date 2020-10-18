@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "raw-tech-blog.netlify.com"
+baseurl = "/"
 languageCode = "en"
-title = "Raw Tech Blog"
+title = "Tekk Blog"
 theme = "hugo-theme-cactus-plus"
 googleAnalytics = "your_google_analytics_id"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
@@ -9,7 +9,7 @@ hasCJKLanguage = false
 
 [params]
 	author = "Shotaro Takayanagi"
-	description = "Raw Tech Blog"
+	description = "Tekk Blog"
 	bio = "Shotaro Takayanagi"
 
 	twitter = ""
