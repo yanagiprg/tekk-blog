@@ -8,9 +8,9 @@ googleAnalytics = "your_google_analytics_id"
 hasCJKLanguage = false
 
 [params]
-	author = "Shotaro Takayanagi"
+	author = "ST"
 	description = "Tekk Blog"
-	bio = "Shotaro Takayanagi"
+	bio = "ST"
 
 	twitter = ""
 	facebook = ""
